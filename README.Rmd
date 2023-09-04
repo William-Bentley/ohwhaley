@@ -25,11 +25,11 @@ Whale-come! This R package was inspired by [cowsay](https://github.com/sckott/co
 
 ## First things first
 
-`ohwhaley` is a toy project and is still under development. You can install the latest version from [GitHub](https://github.com/) with:
+`ohwhaley` is a toy project and is still under development. You can install the latest version from [GitHub](https://github.com/William-Bentley/ohwhaley) with:
 
 ```{r, install, results = "hide", eval = FALSE}
 # install.packages("remotes")
-remotes::install_github("fontikar/ohwhaley")
+remotes::install_github("William-Bentley/ohwhaley")
 ```
 
 ## Take it for a spin
